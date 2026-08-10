@@ -44,8 +44,8 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=iqbaalfd&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Iqbal's GitHub Stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iqbaalfd&layout=compact&theme=tokyonight&hide_border=true&hide=blade,html" alt="Top Languages" />
+  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=iqbaalfd&show_icons=true&theme=tokyonight&hide_border=true" alt="Iqbal's GitHub Stats" />
+  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=iqbaalfd&layout=compact&theme=tokyonight&hide_border=true&hide=html,blade" alt="Top Languages" />
 </p>
 
 ---
