@@ -44,10 +44,9 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=iqbaalfd&theme=tokyonight&hide_border=true" alt="Iqbal's Streak" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iqbaalfd&layout=compact&theme=tokyonight&hide_border=true&hide=html,blade" alt="Top Languages" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=iqbaalfd&theme=tokyonight&hide_border=true" alt="Iqbal's Streak" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iqbaalfd&theme=tokyonight" alt="GitHub Summary" />
 </p>
-
 ---
 
 <p align="center">
