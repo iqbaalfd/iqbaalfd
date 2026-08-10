@@ -1,6 +1,6 @@
-# Hi there, I'm Iqbal Fadillah! 👋 
+# Hi, I'm Iqbal Fadillah! 👋 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&weight=600&size=18&duration=3000&pause=1000&color=22D3EE&width=435&lines=Informatics+Student+%40+UNSAP;Web+Developer+%26+Tech+Explorer;Building+Modern+Web+Applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&weight=600&size=18&duration=3000&pause=1000&color=22D3EE&width=435&lines=Informatics+Student+%40+Universitas+Sebelas+April;Web+Developer+%26+Tech+Explorer;Building+Modern+Web+Applications" alt="Typing SVG" />
 </p>
 
 ---
