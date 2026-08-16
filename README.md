@@ -44,12 +44,21 @@
 ### 📊 GitHub Activity
 
 <p align="center">
+
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=iqbaalfd&theme=tokyonight&hide_border=true" alt="Iqbal's Streak" />
+
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iqbaalfd&theme=tokyonight" alt="GitHub Summary" />
+
 </p>
 
 ---
 
+
+
 <p align="center">
+
   <i>"Turning ideas into clean code and functional digital products."</i><br>
+
   <b>© 2026 Iqbal Fadillah</b>
+
 </p>
