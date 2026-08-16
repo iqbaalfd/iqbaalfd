@@ -44,14 +44,12 @@
 ### 📊 GitHub Activity
 
 <p align="center">
-
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=iqbaalfd&theme=tokyonight&hide_border=true" alt="Iqbal's Streak" />
-
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iqbaalfd&theme=tokyonight" alt="GitHub Summary" />
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iqbaalfd&theme=tokyonight&hide_border=true" alt="Iqbal's Streak" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iqbaalfd&theme=tokyonight" alt="GitHub Summary" />
+</p>
 
 
 
