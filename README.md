@@ -4,25 +4,25 @@
   <p><strong>Informatics Engineering Student & Web Developer | Specializing in Laravel, Tailwind CSS, and Cloud Solutions | Building Clean & Functional Digital Products</strong></p>
 
   <p>
-    <a href="https://iqbalfadillah.vercel.app" target="_blank">🌐 Portfolio</a> &nbsp;•&nbsp;
-    <a href="https://linkedin.com/in/iqbaalfdllh" target="_blank">💼 LinkedIn</a> &nbsp;•&nbsp;
-    <a href="mailto:iqbaal.fd@gmail.com">📬 Email</a>
+    <a href="https://iqbalfadillah.vercel.app" target="_blank">Portfolio</a> &nbsp;•&nbsp;
+    <a href="https://linkedin.com/in/iqbaalfdllh" target="_blank">LinkedIn</a> &nbsp;•&nbsp;
+    <a href="mailto:iqbaal.fd@gmail.com">Email</a>
   </p>
 
 </div>
 
 ---
 
-### 👨‍💻 About Me
+### // About Me
 
-* 🎓 **Education:** Informatics Engineering Student at **Universitas Sebelas April (UNSAP)**, Sumedang.
-* 💻 **Core Expertise:** Full-stack web development, clean interface design, and cloud infrastructure integration.
-* 🚀 **Current Focus:** Crafting high-performance web applications, collaborative platforms, and local business digital solutions.
-* 🏆 **Credentials:** Certified in Google Cloud (Networking, Infrastructure, & App Dev Environments via Credly).
+* ✦ **Education:** Informatics Engineering Student at **Universitas Sebelas April (UNSAP)**, Sumedang.
+* ✦ **Core Expertise:** Full-stack web development, clean interface design, and cloud infrastructure integration.
+* ✦ **Current Focus:** Crafting high-performance web applications, collaborative platforms, and local business digital solutions.
+* ✦ **Credentials:** Certified in Google Cloud (Networking, Infrastructure, & App Dev Environments via Credly).
 
 ---
 
-### 🛠️ Technical Stack
+### // Technical Stack
 
 | Category | Technologies / Tools |
 | :--- | :--- |
@@ -32,28 +32,24 @@
 
 ---
 
-### 🚀 Featured Projects
+### // Featured Projects
 
 | Project | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :--- |
-| **🚀 KREATIFIN** | Collaborative platform for creative industry ecosystems and local talents. | `Laravel` `Tailwind` `MySQL` | [Visit Site](https://www.kreatif-in.my.id/) |
-| **🖨️ Madani Printing** | High-performance business landing page optimized for local SEO. | `HTML` `Tailwind` `JS` | [Visit Site](https://madani-printing.vercel.app/) |
+| **KREATIFIN** | Collaborative platform for creative industry ecosystems and local talents. | `Laravel` `Tailwind` `MySQL` | [Visit Site](https://www.kreatif-in.my.id/) |
+| **Madani Printing** | High-performance business landing page optimized for local SEO. | `HTML` `Tailwind` `JS` | [Visit Site](https://madani-printing.vercel.app/) |
 
 ---
 
-### 📊 GitHub Activity
+### // GitHub Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=iqbaalfd&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Iqbal's GitHub Stats" />
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iqbaalfd&theme=tokyonight" alt="GitHub Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iqbaalfd&theme=tokyonight" alt="GitHub Summary" />
 </p>
 
-
+---
 
 <p align="center">
-
   <i>"Turning ideas into clean code and functional digital products."</i><br>
-
   <b>© 2026 Iqbal Fadillah</b>
-
 </p>
