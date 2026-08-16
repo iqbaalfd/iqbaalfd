@@ -4,7 +4,7 @@
   <p><strong>Informatics Engineering Student & Web Developer | Specializing in Laravel, Tailwind CSS, and Cloud Solutions | Building Clean & Functional Digital Products</strong></p>
 
   <p>
-    <a href="https://iqbaalfadillah.com" target="_blank">🌐 Portfolio</a> &nbsp;•&nbsp;
+    <a href="https://iqbalfadillah.vercel.app" target="_blank">🌐 Portfolio</a> &nbsp;•&nbsp;
     <a href="https://linkedin.com/in/iqbaalfdllh" target="_blank">💼 LinkedIn</a> &nbsp;•&nbsp;
     <a href="mailto:iqbaal.fd@gmail.com">📬 Email</a>
   </p>
