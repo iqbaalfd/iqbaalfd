@@ -13,7 +13,7 @@
 
 ---
 
-### // About Me
+### About Me
 
 * ✦ **Education:** Informatics Engineering Student at **Universitas Sebelas April (UNSAP)**, Sumedang.
 * ✦ **Core Expertise:** Full-stack web development, clean interface design, and cloud infrastructure integration.
@@ -22,7 +22,7 @@
 
 ---
 
-### // Technical Stack
+### Technical Stack
 
 | Category | Technologies / Tools |
 | :--- | :--- |
@@ -32,7 +32,7 @@
 
 ---
 
-### // Featured Projects
+### Featured Projects
 
 | Project | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :--- |
@@ -41,7 +41,7 @@
 
 ---
 
-### // GitHub Activity
+### GitHub Activity
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iqbaalfd&theme=tokyonight" alt="GitHub Summary" />
