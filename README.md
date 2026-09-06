@@ -22,7 +22,7 @@
 
 ### About Me
 
-Informatics Engineering Student at **Universitas Sebelas April (UNSAP)** focusing on full-stack web development, clean interface design, and cloud infrastructure integration. Currently crafting high-performance web applications, collaborative platforms, and local business digital solutions, backed by Google Cloud credentials (Networking, Infrastructure, & App Dev Environments via Credly).
+Informatics Engineering Student at **UNSAP** specializing in full-stack web development and cloud infrastructure, focusing on high-performance web applications and digital solutions, with Google Cloud certification.
 
 ---
 
