@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=Iqbal%20Fadillah&fontSize=35&fontColor=fff&animation=fadeIn&fontY=38" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,16,16,32,48&height=120&section=header&text=Iqbal%20Fadillah&fontSize=35&fontColor=ffffff&animation=fadeIn&fontY=38&desc=Informatics%20Engineering%20Student%20%7C%20Web%20Developer" width="100%" />
 
   <p><strong>Informatics Engineering Student & Web Developer | Specializing in Laravel, Tailwind CSS, and Cloud Solutions</strong></p>
 
@@ -61,11 +61,6 @@
 ---
 
 <div align="center">
-  
-  <p>
-    <img src="https://img.shields.io/badge/Made%20with%20Passion-%23FF5722.svg?style=flat-square&logo=git&logoColor=white" alt="Made with Passion" />
-    <img src="https://img.shields.io/badge/Status-Always%20Learning-%234CAF50.svg?style=flat-square" alt="Status" />
-  </p>
 
   <p><b>© 2026 Iqbal Fadillah. All rights reserved.</b></p>
 
