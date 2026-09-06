@@ -1,12 +1,21 @@
 <div align="center">
 
-  # Iqbal Fadillah
-  <p><strong>Informatics Engineering Student & Web Developer | Specializing in Laravel, Tailwind CSS, and Cloud Solutions | Building Clean & Functional Digital Products</strong></p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=Iqbal%20Fadillah&fontSize=35&fontColor=fff&animation=fadeIn&fontY=38" width="100%" />
+
+  <p><strong>Informatics Engineering Student & Web Developer | Specializing in Laravel, Tailwind CSS, and Cloud Solutions</strong></p>
 
   <p>
-    <a href="https://iqbalfadillah.vercel.app" target="_blank">Portfolio</a> &nbsp;•&nbsp;
-    <a href="https://linkedin.com/in/iqbaalfdllh" target="_blank">LinkedIn</a> &nbsp;•&nbsp;
-    <a href="mailto:iqbaal.fd@gmail.com">Email</a>
+    <a href="https://iqbalfadillah.vercel.app" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Vercel&logoColor=white" alt="Portfolio" />
+    </a>
+    &nbsp;
+    <a href="https://linkedin.com/in/iqbaalfdllh" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    &nbsp;
+    <a href="mailto:iqbal.fd@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
   </p>
 
 </div>
@@ -51,7 +60,14 @@
 
 ---
 
-<p align="center">
-  <i>"Turning ideas into clean code and functional digital products."</i><br>
-  <b>© 2026 Iqbal Fadillah</b>
-</p>
+<div align="center">
+  
+  <p>
+    <img src="https://img.shields.io/badge/Made%20with%20Passion-%23FF5722.svg?style=flat-square&logo=git&logoColor=white" alt="Made with Passion" />
+    <img src="https://img.shields.io/badge/Status-Always%20Learning-%234CAF50.svg?style=flat-square" alt="Status" />
+  </p>
+
+  <p><b>© 2026 Iqbal Fadillah. All rights reserved.</b></p>
+
+</div>
+
