@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,16,16,32,48&height=120&section=header&text=Iqbal%20Fadillah&fontSize=35&fontColor=ffffff&animation=fadeIn&fontY=38&desc=Informatics%20Engineering%20Student%20%7C%20Web%20Developer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,16,16,32,48&height=120&section=header&text=Iqbal%20Fadillah&fontSize=35&fontColor=ffffff&animation=fadeIn&fontY=38" width="100%" />
 
   <p><strong>Informatics Engineering Student & Web Developer | Specializing in Laravel, Tailwind CSS, and Cloud Solutions</strong></p>
 
@@ -24,10 +24,10 @@
 
 ### About Me
 
-* ✦ **Education:** Informatics Engineering Student at **Universitas Sebelas April (UNSAP)**, Sumedang.
-* ✦ **Core Expertise:** Full-stack web development, clean interface design, and cloud infrastructure integration.
-* ✦ **Current Focus:** Crafting high-performance web applications, collaborative platforms, and local business digital solutions.
-* ✦ **Credentials:** Certified in Google Cloud (Networking, Infrastructure, & App Dev Environments via Credly).
+- **Education** &nbsp;•&nbsp; Informatics Engineering Student at **Universitas Sebelas April (UNSAP)**, Sumedang.
+- **Expertise** &nbsp;•&nbsp; Full-stack web development, clean interface design, and cloud infrastructure integration.
+- **Focus** &nbsp;•&nbsp; Crafting high-performance web applications, collaborative platforms, and local business digital solutions.
+- **Credentials** &nbsp;•&nbsp; Certified in Google Cloud (Networking, Infrastructure, & App Dev Environments via Credly).
 
 ---
 
