@@ -2,17 +2,15 @@
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,16,16,32,48&height=120&section=header&text=Iqbal%20Fadillah&fontSize=35&fontColor=ffffff&animation=fadeIn&fontY=38" width="100%" />
 
-  <p><strong>Informatics Engineering Student & Web Developer | Specializing in Laravel, Tailwind CSS, and Cloud Solutions</strong></p>
+  <p><strong>Informatics Engineering Student & Full-Stack Developer | Building High-Performance Web Applications.</strong></p>
 
   <p>
     <a href="https://iqbalfadillah.vercel.app" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Vercel&logoColor=white" alt="Portfolio" />
     </a>
-    &nbsp;
     <a href="https://linkedin.com/in/iqbaalfdllh" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    &nbsp;
     <a href="mailto:iqbal.fd@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
