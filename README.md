@@ -26,8 +26,8 @@
 
 | Category | Technologies / Tools |
 | :--- | :--- |
-| **Languages & Frameworks** | PHP, Laravel, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS |
-| **Databases & Version Control** | MySQL, Git, GitHub |
+| **Languages & Frameworks** | PHP, Laravel, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Rust |
+| **Databases & Version Control** | MySQL, Supabase, Git, GitHub |
 | **Cloud & Deployment** | Google Cloud Platform (GCP), Vercel, VS Code |
 
 ---
@@ -36,10 +36,11 @@
 
 | Project | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :--- |
-| **JokerX Optimizer** | High-performance desktop utility app for system cleaning and real-time hardware diagnostics. | `Tauri v2` `Rust` `JavaScript` | [View Repository](https://github.com/iqbaalfd/jokerx-optimizer) |
-| **KREATIFIN** | Collaborative platform for creative industry ecosystems and local talents. | `Laravel` `Tailwind` `MySQL` | [Visit Site](https://www.kreatif-in.my.id/) |
-| **Madani Printing** | High-performance business landing page optimized for local SEO. | `HTML` `Tailwind` `JS` | [Visit Site](https://madani-printing.vercel.app/) |
+| **JokerX Optimizer** | High-performance desktop utility app for system cleaning and real-time hardware diagnostics. | ![Tauri](https://img.shields.io/badge/Tauri-%2324C8DB.svg?style=flat&logo=tauri&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=flat&logo=rust&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black) | [View Repository](https://github.com/iqbaalfd/jokerx-optimizer) |
+| **KREATIFIN** | Collaborative platform for creative industry ecosystems and local talents. | ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338BDF8.svg?style=flat&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-%2300000f.svg?style=flat&logo=mysql&logoColor=white) | [Visit Site](https://www.kreatif-in.my.id/) |
+| **Madani Printing** | High-performance business landing page optimized for local SEO. | ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338BDF8.svg?style=flat&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black) | [Visit Site](https://madani-printing.vercel.app/) |
 
+---
 ---
 
 ### GitHub Activity
