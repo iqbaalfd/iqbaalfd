@@ -33,9 +33,9 @@
 
 | Category | Technologies / Tools |
 | :--- | :--- |
-| **Languages & Frameworks** | PHP, Laravel, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Rust |
-| **Databases & Version Control** | MySQL, Supabase, Git, GitHub |
-| **Cloud & Deployment** | Google Cloud Platform (GCP), Vercel, VS Code |
+| **Languages & Frameworks** | JavaScript (ES6+), TypeScript, Next.Js, React, Tailwind CSS, PHP, Laravel, Rust |
+| **Databases & Backend** | Supabase, PostgreSQL, MySQL |
+| **Cloud, Version Control & Tools** | Google Cloud Platform (GCP), Vercel, Git, GitHub, VS Code |
 
 ---
 
