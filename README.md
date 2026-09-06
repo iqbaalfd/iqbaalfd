@@ -36,6 +36,7 @@
 
 | Project | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :--- |
+| **JokerX Optimizer** | High-performance desktop utility app for system cleaning and real-time hardware diagnostics. | `Tauri v2` `Rust` `JavaScript` | [View Repository](https://github.com/iqbaalfd/jokerx-optimizer) |
 | **KREATIFIN** | Collaborative platform for creative industry ecosystems and local talents. | `Laravel` `Tailwind` `MySQL` | [Visit Site](https://www.kreatif-in.my.id/) |
 | **Madani Printing** | High-performance business landing page optimized for local SEO. | `HTML` `Tailwind` `JS` | [Visit Site](https://madani-printing.vercel.app/) |
 
